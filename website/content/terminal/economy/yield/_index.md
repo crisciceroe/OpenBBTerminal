@@ -1,3 +1,5 @@
+function deprecated in new version use treasury to view yields 
+
 ```
 usage: yield [-d DATE] [-h]
 ```
